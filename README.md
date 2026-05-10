@@ -22,13 +22,10 @@ Software engineer building across **web**, **mobile**, and **hardware**.
 
 ## Projects
 
-| Project | Stack | Description |
+| Project | StackMongoDB · Express.js · React.js · Node.js.js · React.js · Node.js
 |--------|-------|-------------|
-| [LinkVault](#) | React, Node.js, PostgreSQL | A bookmark manager with tagging, search, and browser extension support |
-| [TrackMate](#) | Flutter, Firebase | A habit tracking mobile app with streak stats and push reminders |
-| [AgroSense](#) | Arduino, C++, MQTT | A soil moisture monitor that sends real-time alerts to a dashboard |
-| [DevBoard](#) | Next.js, Tailwind, REST APIs | A personal dev dashboard aggregating GitHub activity and tasks |
-| [PulseTag](#) | Raspberry Pi, Python, NFC | A wearable NFC tag system for logging gym reps and workout data |
+| [TaskFlow](#) | Swift · SwiftUI · Core Data · REST API | A native iOS task-management app that helps users create, prioritise, and track daily goals with real-time reminders.
+| [ShopNow](#) | MongoDB · Express.js · React.js · Node.js | A complete e-commerce web application built from scratch with product listings, a shopping cart, user authentication, and order management.
 
 ---
 
