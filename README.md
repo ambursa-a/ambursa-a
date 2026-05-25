@@ -1,70 +1,132 @@
 # Faisal Ambursa
 
-Software Engineer building across web, mobile, and hardware systems.
+Software Engineer building scalable web, mobile, and cloud-based systems.
 
-I enjoy creating scalable digital products, experimenting with embedded systems, and connecting software with real-world devices.
+I focus on backend-heavy applications, clean system design, and production-ready software that can scale across users and business operations.
 
 ---
 
-## About
+## What I Do
+
+### Cloud & Backend Systems
+- Scalable REST API development
+- Authentication & authorization systems
+- Backend architecture and system design
+- Database modeling (SQL & NoSQL)
+- Cloud deployment fundamentals
 
 ### Web Development
 - Full-stack web applications
-- REST APIs and backend systems
-- Responsive interfaces
-- Authentication and database architecture
+- Responsive and modern UI development
+- Real-time and event-driven applications
+- Performance-focused frontend engineering
 
 ### Mobile Development
-- Cross-platform mobile apps
-- Native iOS and Android applications
-- Real-time applications
-- Performance-focused UI/UX
-
-### Hardware & IoT
-- Embedded systems
-- IoT automation projects
-- Raspberry Pi and Arduino development
-- Sensor integration and MQTT communication
+- Cross-platform mobile applications
+- iOS and Android development
+- Real-time mobile app experiences
+- Clean mobile architecture and state management
 
 ---
 
 ## Tech Stack
 
-### Web
-HTML · CSS · JavaScript · React · Node.js · Express.js · MongoDB
+**Frontend**
+React · TypeScript · JavaScript · HTML · CSS
 
-### Mobile
-React Native · Flutter · Swift · Kotlin · SwiftUI
+**Backend**
+Node.js · Express · REST APIs · PostgreSQL · MongoDB · SQL
 
-### Hardware
-Arduino · Raspberry Pi · C/C++ · MQTT · Embedded Systems
+**Mobile**
+React Native · Swift · SwiftUI · Kotlin
+
+**Tools & Concepts**
+Linux · Docker (learning) · Git · System Design · Networking fundamentals
 
 ---
 
 ## Projects
 
-| Project | Stack | Description |
-|----------|-------|-------------|
-| TaskFlow | Swift · SwiftUI · Core Data · REST API | A native iOS productivity app for managing tasks, priorities, and reminders in real time. |
-| ShopNow | MongoDB · Express.js · React · Node.js | Full-stack e-commerce platform with authentication, cart management, and order processing. |
-| IoT Monitor | Raspberry Pi · MQTT · Node.js | Real-time IoT monitoring system for collecting and visualising sensor data remotely. |
+### Multi-Branch Restaurant Operations Dashboard
+Internal system for restaurant owners managing one or multiple locations.
+
+**Core Features**
+- Live sales overview across branches
+- Inventory tracking and low-stock alerts
+- Staff scheduling and role management
+- Waste reporting and operational analytics
+- Branch comparison dashboard
+- Role-based access control
+- Daily operational reports
+- WhatsApp order logging integration
+
+**Why It Matters**
+A real operational system designed for business execution, not just UI.
+
+Shows:
+- Multi-branch system design
+- Backend-heavy architecture
+- Data aggregation & analytics
+- Workflow automation
+- Scalable business logic design
+
+**Stack**
+React · Next.js · Node.js · PostgreSQL · Firebase Auth · Charts/Analytics · Cloud deployment
+
+---
+
+### Internal Workflow & Client Management System
+SaaS-style platform for service-based businesses to manage clients, teams, and operations.
+
+**Core Features**
+- Client management system
+- Task assignment and tracking
+- Team dashboards and role separation
+- File uploads and document handling
+- Workflow pipelines and status tracking
+- Notifications and activity logs
+- Operational analytics dashboard
+
+**Why It Matters**
+Built for operational efficiency across different industries.
+
+Shows:
+- SaaS architecture thinking
+- Multi-tenant system design
+- API-first backend structure
+- Workflow orchestration systems
+- Scalable business tooling
+
+**Stack**
+Next.js · TypeScript · Prisma · PostgreSQL · Authentication systems · API integrations · Cloud deployment
+
+---
+
+## Interests
+
+- Cloud infrastructure & distributed systems
+- Backend architecture and scalability
+- Financial & energy systems modeling
+- Automation and system design thinking
+- Building real-world production systems
 
 ---
 
 ## Current Focus
 
-- Full-stack engineering
-- Mobile application architecture
-- IoT and embedded systems
-- Scalable backend infrastructure
-- Security-conscious development
+- Cloud engineering and backend systems
+- System design and scalability patterns
+- Production-grade API development
+- Mobile + backend integration
+- Clean, maintainable architecture design
 
 ---
 
 ## Contact
 
 Email: abumuhafa@gmail.com  
-Portfolio: ambursa.dev
+Portfolio: https://ambursa.vercel.app
 
 ---
-Always building, learning, and experimenting.
+
+> Building systems that scale, perform, and connect real users to real outcomes.
