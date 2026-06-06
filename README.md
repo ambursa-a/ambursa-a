@@ -1,23 +1,9 @@
-# Faisal Ambursa
+# faisal 
 
-Machine Learning Engineer focused on artificial intelligence, machine learning, and cloud technologies.
+ml • systems • products  
 
-## Tech Stack
+shipping end-to-end.  
 
-* Python
-* SQL
-* Git
-* Linux
+chasing depth, not noise.  
 
-## Interests
-
-* Machine Learning
-* Deep Learning
-* MLOps
-* Cloud Computing
-* Artificial Intelligence
-
-## Contact
-
-* X: @aambursaf
-* Email: [ambursa.faisal@gmail.com](mailto:ambursa.faisal@gmail.com)
+doing it for the love of the game.
