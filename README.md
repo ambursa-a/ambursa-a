@@ -1,9 +1,9 @@
-# faisal 
+# faisal
 
-ml • systems • products  
+**atoms • bits • motion**
 
-shipping end-to-end.  
+shipping physical systems.  
 
-chasing depth, not noise.  
+grounded in physics, not hype. 
 
 doing it for the love of the game.
