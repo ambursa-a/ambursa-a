@@ -1,9 +1,9 @@
-# faisal
+# Faisal
 
-**atoms • bits • motion**
+**`data` • `compute` • `weights`**
 
-shipping physical systems.  
+---
 
-grounded in physics, not hype. 
-
-doing it for the love of the game.
+> shipping production models.  
+> grounded in empirical results, not hype.  
+> doing it for the love of the game.
