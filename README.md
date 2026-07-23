@@ -1,15 +1,15 @@
 ### Muhammad
 
-`software` · `robotics`
+`offensive-security` · `red-team`
 
 ---
 
-Building software and robotics systems.
+Engineering custom offensive tooling and breaking security controls.
 
-- shipping production models
-- grounded in empirical results, not hype
+- building exploitation tools and automation
+- grounded in real-world impact, not hype
 - doing it for the love of the game
 
 ---
 
-**Currently:** building [ambursa.dev](https://ambursa.dev), a blog on robotics, and contributing to open source.
+**Currently:** documenting research on [ambursa.dev](https://ambursa.dev) and contributing to open-source security tools.
