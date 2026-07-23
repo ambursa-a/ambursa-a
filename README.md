@@ -1,10 +1,10 @@
-### Muhammad
+### muhammad
 
 `offensive-security` · `red-team`
 
 ---
 
-Engineering custom offensive tooling and breaking security controls.
+engineering custom offensive tooling and breaking security controls.
 
 - building exploitation tools and automation
 - grounded in real-world impact, not hype
@@ -12,4 +12,4 @@ Engineering custom offensive tooling and breaking security controls.
 
 ---
 
-**Currently:** documenting research on [ambursa.dev](https://ambursa.dev) and contributing to open-source security tools.
+**currently:** documenting research on [ambursa.dev](https://ambursa.dev) and contributing to open-source security tools.
