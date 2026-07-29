@@ -1,15 +1,16 @@
-### muhammad
+Muhammad
 
-`offensive-security` · `red-team`
+robotics · computer-vision · software
 
----
+⸻
 
-engineering custom offensive tooling and breaking security controls.
+building toward intelligent machines.
 
-- building exploitation tools and automation
-- grounded in real-world impact, not hype
-- doing it for the love of the game
+* exploring robotics software and autonomous systems
+* developing computer vision and AI-driven applications
+* experimenting with simulation, perception, and control
+* learning by building real systems
 
----
+⸻
 
-**currently:** documenting research on [ambursa.dev](https://ambursa.dev) and contributing to open-source security tools.
+currently: researching robotics, documenting projects at ambursa.dev, and building in public through open-source contributions.
