@@ -1,12 +1,16 @@
 muhammad
 
-software engineer · systems · ai
+robotics · computer-vision · software
 
 ⸻
 
-building software that solves real problems.
+building toward intelligent machines.
 
-* Python & C++ development
-* systems programming and automation
-* exploring AI-driven applications
-* creating and contributing in open source projects.
+* exploring robotics software and autonomous systems
+* developing computer vision and AI-driven applications
+* experimenting with simulation, perception, and control
+* learning by building real systems
+
+⸻
+
+currently: researching and learning robotics and artificial intelligence 
