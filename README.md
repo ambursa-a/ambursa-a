@@ -1,16 +1,16 @@
 muhammad
 
-robotics · computer-vision · software
+cybersecurity · security operations · software
 
 ⸻
 
-building toward intelligent machines.
+building toward secure systems.
 
-* exploring robotics software and autonomous systems
-* developing computer vision and AI-driven applications
-* experimenting with simulation, perception, and control
-* learning by building real systems
+* exploring security operations, threat detection, and incident response
+* developing skills in penetration testing and offensive security
+* studying networks, vulnerabilities, and security engineering
+* learning through labs, research, and hands-on projects
 
 ⸻
 
-currently: researching and learning robotics and artificial intelligence 
+currently: researching cybersecurity, ethical hacking, and building practical security skills.
