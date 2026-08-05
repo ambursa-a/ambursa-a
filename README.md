@@ -1,11 +1,11 @@
-muhammad
+# Software Engineer & Builder
 
-software engineer · systems · backend
+I design and build modern applications focused on solving real-world problems.
 
-⸻
+My work spans full-stack development, AI-powered tools, and scalable digital products.
 
-building toward reliable systems.
-exploring distributed systems, software architecture, and system design
-developing skills in backend development and API engineering
-studying databases, performance, and software engineering principles
-learning through real-world projects, open source, and hands-on development
+## Stack
+
+Next.js • TypeScript • React • Tailwind • NestJS • Node.js • Python • PostgreSQL • MongoDB
+
+Currently building, learning, and shipping.
