@@ -1,16 +1,11 @@
 muhammad
 
-cybersecurity · security operations · software
+software engineer · systems · backend
 
 ⸻
 
-building toward secure systems.
-
-* exploring security operations, threat detection, and incident response
-* developing skills in penetration testing and offensive security
-* studying networks, vulnerabilities, and security engineering
-* learning through labs, research, and hands-on projects
-
-⸻
-
-currently: researching cybersecurity, ethical hacking, and building practical security skills.
+building toward reliable systems.
+exploring distributed systems, software architecture, and system design
+developing skills in backend development and API engineering
+studying databases, performance, and software engineering principles
+learning through real-world projects, open source, and hands-on development
