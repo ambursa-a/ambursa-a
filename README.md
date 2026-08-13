@@ -1,19 +1,9 @@
-### Software Engineer & Security Enthusiast
+Software Engineer & ML Engineer
 
-I build applications with security woven in from day one, not bolted on after.
+I build software and ML systems for real-world problems, with a growing focus on AgriTech and intelligent agriculture in Northern Nigeria.
 
-My work spans full-stack development, secure infrastructure, and AI-powered tools, with growing focus on networking and system security through hands-on homelab work.
+Stack: Next.js · TypeScript · React · NestJS · Node.js · Python · PyTorch · PostgreSQL · MongoDB
 
----
+Focus: Machine Learning · Computer Vision · AgriTech · Predictive Modeling · Full-Stack Engineering · Secure Systems
 
-### Stack
-
-Next.js · TypeScript · React · Tailwind · NestJS · Node.js · Python · PostgreSQL · MongoDB
-
----
-
-### Security Focus
-
-Homelab: network segmentation, hardening, monitoring
-
-Currently building, learning, and shipping, with an eye toward secure-by-design systems.
+Building. Learning. Shipping.
