@@ -1,53 +1,65 @@
-Muhammad Abubakar
+# Muhammad Abubakar
 
-Full-stack software engineer building practical web products and backend systems.
+Software engineer building practical web applications, backend systems and digital products.
 
-I work across the application stack, from responsive interfaces to APIs, databases and deployment. My focus is building software that solves real business problems and is straightforward to maintain.
+I work across the application stack, with a growing focus on Python backend engineering. I enjoy turning real-world problems into simple, maintainable software.
 
-Core Stack
+## Stack
 
-Frontend
+**Frontend**  
 Next.js · React · TypeScript · Tailwind CSS
 
-Backend
-Node.js · NestJS · Express · Python
+**Backend**  
+Python · FastAPI · Django
 
-Database
-PostgreSQL · MongoDB
+**Database**  
+PostgreSQL · Redis
 
-Tools
-Docker · Linux · Git · GitHub · Vercel
+**Mobile**  
+React Native · Expo
 
-Selected Work
+**Engineering**  
+REST APIs · Authentication · Background Jobs · Testing
 
-LinkVault
+**Infrastructure**  
+Docker · Linux · Git · GitHub · Vercel · VPS
 
-Full-stack application focused on managing and working with links.
+## Selected Work
 
-Plato Dashboard
+### LinkVault
 
-Dashboard application demonstrating frontend development, data presentation and product UI implementation.
+Full-stack application for organizing and managing links.
 
-LifeLink
+Built around practical information management with a modern web interface and backend functionality.
 
-Software project focused on connecting users around a practical real-world use case.
+### Plato Dashboard
 
-What I Build
+Dashboard application focused on data presentation, application interfaces and product-oriented frontend development.
 
-I’m particularly interested in building:
+### LifeLink
 
-* Full-stack web applications
-* Backend APIs and business systems
-* Internal dashboards and operational software
-* MVPs for startups and businesses
-* Software platforms with authentication, databases and integrations
+Software platform designed around connecting users for a practical real-world use case.
 
-Currently
+## What I Build
 
-Building and improving production-style software projects while studying Software Engineering.
+I primarily work on:
 
-Open to freelance, contract and software engineering opportunities.
+- Full-stack web applications
+- Python backend systems and APIs
+- Business and operational software
+- Internal dashboards
+- Startup MVPs
+- Mobile-backed platforms
+- AI and automation integrations
 
-Contact
+## Current Focus
 
-For projects, collaborations or engineering opportunities, reach out through GitHub.
+Deepening my backend engineering work with **Python, FastAPI, Django and PostgreSQL** while continuing to build full-stack products with **Next.js and TypeScript**.
+
+I am also studying Software Engineering and continuously building production-style projects.
+
+## Work
+
+Open to freelance and contract software engineering projects.
+
+For projects or collaborations, reach out through my email @ambursa.faisal@gmail.com
