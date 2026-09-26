@@ -1,41 +1,36 @@
 # Muhammad Abubakar
 
-**Software Engineer | Exploring Embedded Systems & Electric Vehicle Software**
+**Learning EV Software Engineering | C • Embedded Systems • Vehicle Diagnostics**
 
-I build practical full-stack applications, backend systems and business software. I'm currently expanding into **C programming and embedded systems**, with a long-term interest in understanding, simulating and developing software for electric vehicles.
+I'm a Software Engineering student beginning a software-first journey into electric vehicles. My goal is to understand how EV control software works, build my own simulations and diagnostic tools, and later develop practical skills through supervised hardware and workshop training.
 
-My approach is software-first: learn the fundamentals, build working simulations, then connect that knowledge to real hardware and supervised EV workshop experience.
-
-## Technical Stack
-
-- **Frontend:** Next.js, React, TypeScript, Tailwind CSS
-- **Backend:** Python, FastAPI, Django; REST APIs
-- **Data:** PostgreSQL, Redis
-- **Mobile:** React Native, Expo
-- **Tools & Infrastructure:** Git, GitHub, Docker, Linux, Vercel, VPS
-- **Currently Learning:** C, embedded programming fundamentals, automotive electronics and EV software architecture
-
-## Selected Work
-
-### [LinkVault](https://github.com/ambursa-a/linkvault)
-An application for organizing and managing links.
-
-### [Plato Dashboard](https://github.com/ambursa-a/plato-dashboard)
-A dashboard project focused on data presentation and application interfaces.
-
-### [LifeLink](https://github.com/ambursa-a/lifelink)
-A software platform built around a practical real-world use case.
+This profile documents my progress, experiments and projects as I learn.
 
 ## Current Focus
 
-**Software engineering:** Continuing to develop full-stack products, backend APIs and internal business systems alongside my Software Engineering studies.
+- **C programming:** Foundations, pointers, structs, memory and bitwise operations
+- **Embedded systems:** Microcontrollers, sensors, firmware and real-time programming fundamentals
+- **EV software:** Battery management concepts, motor control fundamentals and vehicle architecture
+- **Diagnostics:** Fault detection, telemetry and CAN bus fundamentals
 
-**Embedded systems & EV software:** Starting with C programming, then moving into microcontrollers, battery management concepts, fault detection and vehicle communication.
+## Project Roadmap
 
-**Planned learning project — EV Control & Diagnostics Simulator:** A C-based simulator for battery readings and fault detection, with a dashboard for monitoring and diagnostics. This project is on my roadmap; it is not a completed build.
+### 01 — Battery Monitoring Simulator
+Build a C application that simulates cell voltage, battery temperature, charge level and basic fault warnings.
 
-## How I Work
+### 02 — EV Diagnostics Simulator
+Generate simulated vehicle readings and diagnostic faults; log events and experiment with CAN-style messages.
 
-I prefer building useful software, documenting what I learn and letting the projects speak for themselves. I'm open to relevant freelance and contract software engineering work.
+### 03 — EV Monitoring Dashboard
+Create a dashboard to visualize simulated battery health, temperatures, alerts and vehicle telemetry.
 
-**Contact:** [Email](mailto:ambursa.faisal@gmail.com)
+### 04 — Embedded Prototype
+Move selected simulation logic to a low-voltage microcontroller development board and test it with safe bench hardware.
+
+**Status:** These are planned learning projects, not finished systems or production-ready automotive software.
+
+## Learning Approach
+
+**Learn the software → build simulations → experiment with embedded hardware → pursue supervised EV workshop training.**
+
+I'm keeping this profile focused on electric vehicle software and documenting what I learn as I go.
