@@ -13,22 +13,6 @@ This profile documents my progress, experiments and projects as I learn.
 - **EV software:** Battery management concepts, motor control fundamentals and vehicle architecture
 - **Diagnostics:** Fault detection, telemetry and CAN bus fundamentals
 
-## Project Roadmap
-
-### 01 — Battery Monitoring Simulator
-Build a C application that simulates cell voltage, battery temperature, charge level and basic fault warnings.
-
-### 02 — EV Diagnostics Simulator
-Generate simulated vehicle readings and diagnostic faults; log events and experiment with CAN-style messages.
-
-### 03 — EV Monitoring Dashboard
-Create a dashboard to visualize simulated battery health, temperatures, alerts and vehicle telemetry.
-
-### 04 — Embedded Prototype
-Move selected simulation logic to a low-voltage microcontroller development board and test it with safe bench hardware.
-
-**Status:** These are planned learning projects, not finished systems or production-ready automotive software.
-
 ## Learning Approach
 
 **Learn the software → build simulations → experiment with embedded hardware → pursue supervised EV workshop training.**
