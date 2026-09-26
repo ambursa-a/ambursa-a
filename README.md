@@ -1,65 +1,41 @@
 # Muhammad Abubakar
 
-Software engineer building practical web applications, backend systems and digital products.
+**Software Engineer | Exploring Embedded Systems & Electric Vehicle Software**
 
-I work across the application stack, with a growing focus on Python backend engineering. I enjoy turning real-world problems into simple, maintainable software.
+I build practical full-stack applications, backend systems and business software. I'm currently expanding into **C programming and embedded systems**, with a long-term interest in understanding, simulating and developing software for electric vehicles.
 
-## Stack
+My approach is software-first: learn the fundamentals, build working simulations, then connect that knowledge to real hardware and supervised EV workshop experience.
 
-**Frontend**  
-Next.js · React · TypeScript · Tailwind CSS
+## Technical Stack
 
-**Backend**  
-Python · FastAPI · Django
-
-**Database**  
-PostgreSQL · Redis
-
-**Mobile**  
-React Native · Expo
-
-**Engineering**  
-REST APIs · Authentication · Background Jobs · Testing
-
-**Infrastructure**  
-Docker · Linux · Git · GitHub · Vercel · VPS
+- **Frontend:** Next.js, React, TypeScript, Tailwind CSS
+- **Backend:** Python, FastAPI, Django; REST APIs
+- **Data:** PostgreSQL, Redis
+- **Mobile:** React Native, Expo
+- **Tools & Infrastructure:** Git, GitHub, Docker, Linux, Vercel, VPS
+- **Currently Learning:** C, embedded programming fundamentals, automotive electronics and EV software architecture
 
 ## Selected Work
 
-### LinkVault
+### [LinkVault](https://github.com/ambursa-a/linkvault)
+An application for organizing and managing links.
 
-Full-stack application for organizing and managing links.
+### [Plato Dashboard](https://github.com/ambursa-a/plato-dashboard)
+A dashboard project focused on data presentation and application interfaces.
 
-Built around practical information management with a modern web interface and backend functionality.
-
-### Plato Dashboard
-
-Dashboard application focused on data presentation, application interfaces and product-oriented frontend development.
-
-### LifeLink
-
-Software platform designed around connecting users for a practical real-world use case.
-
-## What I Build
-
-I primarily work on:
-
-- Full-stack web applications
-- Python backend systems and APIs
-- Business and operational software
-- Internal dashboards
-- Startup MVPs
-- Mobile-backed platforms
-- AI and automation integrations
+### [LifeLink](https://github.com/ambursa-a/lifelink)
+A software platform built around a practical real-world use case.
 
 ## Current Focus
 
-Deepening my backend engineering work with **Python, FastAPI, Django and PostgreSQL** while continuing to build full-stack products with **Next.js and TypeScript**.
+**Software engineering:** Continuing to develop full-stack products, backend APIs and internal business systems alongside my Software Engineering studies.
 
-I am also studying Software Engineering and continuously building production-style projects.
+**Embedded systems & EV software:** Starting with C programming, then moving into microcontrollers, battery management concepts, fault detection and vehicle communication.
 
-## Work
+**Planned learning project — EV Control & Diagnostics Simulator:** A C-based simulator for battery readings and fault detection, with a dashboard for monitoring and diagnostics. This project is on my roadmap; it is not a completed build.
 
-Open to freelance and contract software engineering projects.
+## How I Work
 
-For projects or collaborations, reach out through my email @ambursa.faisal@gmail.com
+I prefer building useful software, documenting what I learn and letting the projects speak for themselves. I'm open to relevant freelance and contract software engineering work.
+
+**Contact:** [Email](mailto:ambursa.faisal@gmail.com)
