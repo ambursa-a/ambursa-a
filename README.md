@@ -1,20 +1,58 @@
 # Muhammad Abubakar
 
-**Learning EV Software Engineering | C • Embedded Systems • Vehicle Diagnostics**
+**UAV Systems Engineering | Autonomous Systems • PX4 • ROS 2 • C++**
 
-I'm a Software Engineering student beginning a software-first journey into electric vehicles. My goal is to understand how EV control software works, build my own simulations and diagnostic tools, and later develop practical skills through supervised hardware and workshop training.
+I'm a Software Engineering student building toward UAV systems engineering and autonomous robotics.
 
-This profile documents my progress, experiments and projects as I learn.
+My focus is on understanding how unmanned aircraft systems work from the software layer upward — flight control, telemetry, simulation, mission planning, onboard computing and autonomous behaviour. I'm starting in simulation first, then progressively moving into real UAV hardware and field experience.
+
+This profile documents my learning, experiments and engineering projects along the way.
 
 ## Current Focus
 
-- **C programming:** Foundations, pointers, structs, memory and bitwise operations
-- **Embedded systems:** Microcontrollers, sensors, firmware and real-time programming fundamentals
-- **EV software:** Battery management concepts, motor control fundamentals and vehicle architecture
-- **Diagnostics:** Fault detection, telemetry and CAN bus fundamentals
+- **C++ & Python:** Programming for robotics, control and autonomous systems
+- **PX4:** Flight-control architecture, flight modes, missions and simulation
+- **Gazebo:** UAV simulation and testing before working with physical aircraft
+- **MAVLink & MAVSDK:** Vehicle communication, telemetry and mission control
+- **ROS 2:** Robotics middleware, nodes, topics, sensors and autonomy
+- **Linux:** Development environment for robotics and UAV tooling
 
-## Learning Approach
+## Roadmap
 
-**Learn the software → build simulations → experiment with embedded hardware → pursue supervised EV workshop training.**
+**Simulation → Flight Control → Vehicle Communication → ROS 2 → Companion Computers → Perception & Autonomy → Real UAV Systems**
 
-I'm keeping this profile focused on electric vehicle software and documenting what I learn as I go.
+### Phase 1 — Foundations
+Linux, C++, Python, Git and basic electronics.
+
+### Phase 2 — UAV Simulation
+PX4 + QGroundControl + Gazebo. Build and test missions, understand vehicle states, flight modes and failsafes.
+
+### Phase 3 — UAV Software
+Use MAVLink and MAVSDK to control simulated vehicles, read telemetry and create mission software.
+
+### Phase 4 — Robotics & Autonomy
+Integrate ROS 2 with PX4 and work with sensors, coordinate frames, navigation and autonomous behaviours.
+
+### Phase 5 — Real Systems
+Move to companion computers, computer vision, GNSS/RTK, obstacle avoidance, precision landing and real UAV hardware.
+
+## First Engineering Target
+
+**Autonomous Inspection UAV Simulator**
+
+A simulated UAV capable of:
+
+- autonomous takeoff and landing
+- waypoint-based inspection missions
+- telemetry monitoring
+- simulated sensor/camera data collection
+- basic object detection
+- return-to-home behaviour
+
+## Long-Term Direction
+
+I'm working toward becoming a **UAV Systems Engineer**, with deeper specialization in autonomous systems, robotics software and intelligent unmanned aircraft.
+
+---
+
+*Building from simulation first. Hardware comes after understanding the system.*
