@@ -1,58 +1,57 @@
 # Muhammad Abubakar
 
-**UAV Systems Engineering | Autonomous Systems • PX4 • ROS 2 • C++**
+**AI Engineer | Machine Learning • LLMs • Python • Production AI**
 
-I'm a Software Engineering student building toward UAV systems engineering and autonomous robotics.
+I'm a Software Engineering student building toward a career in **AI engineering**.
 
-My focus is on understanding how unmanned aircraft systems work from the software layer upward — flight control, telemetry, simulation, mission planning, onboard computing and autonomous behaviour. I'm starting in simulation first, then progressively moving into real UAV hardware and field experience.
+My focus is on taking machine-learning and generative-AI systems beyond notebooks and turning them into useful, reliable software — from data and model development to APIs, retrieval systems, deployment and monitoring.
 
-This profile documents my learning, experiments and engineering projects along the way.
+This profile documents my learning, experiments and AI engineering projects.
 
 ## Current Focus
 
-- **C++ & Python:** Programming for robotics, control and autonomous systems
-- **PX4:** Flight-control architecture, flight modes, missions and simulation
-- **Gazebo:** UAV simulation and testing before working with physical aircraft
-- **MAVLink & MAVSDK:** Vehicle communication, telemetry and mission control
-- **ROS 2:** Robotics middleware, nodes, topics, sensors and autonomy
-- **Linux:** Development environment for robotics and UAV tooling
+- **Python:** Core language for AI, data and backend development
+- **Machine Learning:** Scikit-learn, model training, evaluation and feature engineering
+- **Deep Learning:** PyTorch, neural networks and transformer fundamentals
+- **Generative AI:** LLM APIs, prompting, structured outputs and tool calling
+- **RAG:** Embeddings, vector search, retrieval and reranking
+- **AI Backend:** FastAPI, PostgreSQL, Redis and API design
+- **MLOps:** Docker, GitHub Actions, model serving and monitoring
+- **Linux & Git:** Development and deployment workflow
 
 ## Roadmap
 
-**Simulation → Flight Control → Vehicle Communication → ROS 2 → Companion Computers → Perception & Autonomy → Real UAV Systems**
+**Python → Machine Learning → Deep Learning → LLM Engineering → AI Backend → MLOps → Production AI Systems**
 
 ### Phase 1 — Foundations
-Linux, C++, Python, Git and basic electronics.
+Python, SQL, NumPy, Pandas, Git and the mathematics needed for machine learning.
 
-### Phase 2 — UAV Simulation
-PX4 + QGroundControl + Gazebo. Build and test missions, understand vehicle states, flight modes and failsafes.
+### Phase 2 — Machine Learning
+Regression, classification, tree-based models, feature engineering, model evaluation and Scikit-learn.
 
-### Phase 3 — UAV Software
-Use MAVLink and MAVSDK to control simulated vehicles, read telemetry and create mission software.
+### Phase 3 — Deep Learning
+PyTorch, neural networks, optimization, embeddings, attention and transformers.
 
-### Phase 4 — Robotics & Autonomy
-Integrate ROS 2 with PX4 and work with sensors, coordinate frames, navigation and autonomous behaviours.
+### Phase 4 — LLM Engineering
+Hugging Face, LLM APIs, RAG, vector databases, reranking, tool calling and AI agents.
 
-### Phase 5 — Real Systems
-Move to companion computers, computer vision, GNSS/RTK, obstacle avoidance, precision landing and real UAV hardware.
+### Phase 5 — Production AI
+FastAPI, PostgreSQL, Redis, Docker, CI/CD, model serving, monitoring and cloud deployment.
 
-## First Engineering Target
+## Engineering Targets
 
-**Autonomous Inspection UAV Simulator**
+I'm building toward projects such as:
 
-A simulated UAV capable of:
-
-- autonomous takeoff and landing
-- waypoint-based inspection missions
-- telemetry monitoring
-- simulated sensor/camera data collection
-- basic object detection
-- return-to-home behaviour
+- production-ready machine-learning APIs
+- document intelligence and RAG systems
+- AI assistants that use external tools
+- intelligent search and recommendation systems
+- end-to-end AI applications with evaluation and monitoring
 
 ## Long-Term Direction
 
-I'm working toward becoming a **UAV Systems Engineer**, with deeper specialization in autonomous systems, robotics software and intelligent unmanned aircraft.
+I'm working toward becoming an **AI Engineer**, with deeper strength in machine learning, LLM systems, backend engineering and production AI infrastructure.
 
 ---
 
-*Building from simulation first. Hardware comes after understanding the system.*
+*Build models. Ship systems. Measure results.*
