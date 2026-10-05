@@ -4,7 +4,7 @@
 
 I’m an AI researcher focused on machine learning, deep learning, and intelligent systems, with a particular interest in applying AI to complex problems in finance and digital-asset systems.
 
-My work sits at the intersection of research and engineering — studying machine learning methods, building experiments, evaluating models, and turning research ideas into practical AI systems.
+My work sits at the intersection of research and engineering, studying machine learning methods, building experiments, evaluating models, and turning research ideas into practical AI systems.
 
 ### Research Focus
 
