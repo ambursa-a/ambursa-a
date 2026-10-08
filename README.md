@@ -1,36 +1,41 @@
 # Muhammad Abubakar
 
-**AI Researcher | Machine Learning & Deep Learning | Financial & Digital-Asset Systems**
+**AI Researcher | Software Engineer | Applied AI & Intelligent Systems**
 
-I’m an AI researcher focused on machine learning, deep learning, and intelligent systems, with a particular interest in applying AI to complex problems in finance and digital-asset systems.
+I build and experiment with AI-powered software systems that solve practical problems. My interests sit at the intersection of machine learning, deep learning, LLMs, AI agents, software engineering, and intelligent systems. I enjoy taking problems from an idea or research question through experimentation and into working software, with a particular interest in applied AI and forward-deployed engineering — understanding real-world problems, working with users and businesses, and turning those problems into reliable technical solutions.
 
-My work sits at the intersection of research and engineering, studying machine learning methods, building experiments, evaluating models, and turning research ideas into practical AI systems.
+### Currently Exploring
 
-### Research Focus
-
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Large Language Models
-- AI Agents
-- Statistical & Mathematical Methods
-- Model Evaluation & Experimentation
-- AI for Financial Systems
-- Financial Data & Risk Analysis
-- Digital-Asset Systems
+- AI/ML research and experimentation
+- Large Language Models & AI agents
+- Backend engineering & APIs
+- AI integrations & automation
+- Data, evaluation & intelligent systems
+- Practical AI software
 
 ### Technical Interests
 
-**Languages & Tools:** Python • PyTorch • SQL • NumPy • Pandas • Scikit-learn • Git
+**Languages:** Python • C • Java
 
-I’m particularly interested in how intelligent systems can reason over financial data, assess risk, automate complex workflows, and support better decision-making.
+**AI/ML:** PyTorch • Machine Learning • Deep Learning • NLP • LLMs • AI Agents
 
-### Current Direction
+**Engineering:** APIs • Backend Development • Databases • System Design • Git
 
-I’m pursuing a B.Sc. in Software Engineering while building a research-oriented portfolio through experiments, implementations, technical projects, and research-driven AI systems.
+### What I'm Building
 
-My long-term goal is to contribute to meaningful AI research and develop intelligent systems that move beyond demos into reliable, useful technology.
+I'm focused on projects that demonstrate the journey from **problem → research → experimentation → engineering → deployment**.
+
+I’m particularly interested in applied AI and forward-deployed engineering: taking real-world problems, understanding the technical and operational constraints, and building reliable systems that people can actually use.
+
+### Education
+
+**BSc Software Engineering** — Miva Open University
+
+### Connect
+
+- **X:** [@aambursaf](https://x.com/aambursaf)
+- **LinkedIn:** [Muhammad Abubakar](https://www.linkedin.com/)
 
 ---
 
-*Researching. Experimenting. Building intelligent systems.*
+*Researching. Experimenting. Building.*
