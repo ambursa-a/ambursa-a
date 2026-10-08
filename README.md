@@ -27,10 +27,6 @@ I'm focused on projects that demonstrate the journey from **problem → research
 
 I’m particularly interested in applied AI and forward-deployed engineering: taking real-world problems, understanding the technical and operational constraints, and building reliable systems that people can actually use.
 
-### Education
-
-**BSc Software Engineering** — Miva Open University
-
 ### Connect
 
 - **X:** [@aambursaf](https://x.com/aambursaf)
