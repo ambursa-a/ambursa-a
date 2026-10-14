@@ -1,31 +1,29 @@
 # Muhammad Abubakar
 
-**AI Researcher | Software Engineer | Applied AI & Intelligent Systems**
+**Software Engineer | Backend Development | Building Reliable Software**
 
-I build and experiment with AI-powered software systems that solve practical problems. My interests sit at the intersection of machine learning, deep learning, LLMs, AI agents, software engineering, and intelligent systems. I enjoy taking problems from an idea or research question through experimentation and into working software, with a particular interest in applied AI and forward-deployed engineering — understanding real-world problems, working with users and businesses, and turning those problems into reliable technical solutions.
+I’m a Software Engineering student focused on becoming a strong, well-rounded software engineer. I’m interested in designing, building, testing, and maintaining software that solves real problems — from backend services and APIs to full applications.
 
-### Currently Exploring
+My approach is to strengthen the fundamentals: programming, data structures and algorithms, databases, software design, debugging, testing, and writing clear, maintainable code.
 
-- AI/ML research and experimentation
-- Large Language Models & AI agents
-- Backend engineering & APIs
-- AI integrations & automation
-- Data, evaluation & intelligent systems
-- Practical AI software
+### Current Focus
 
-### Technical Interests
+- Software engineering fundamentals and problem-solving
+- Backend development and REST APIs
+- Databases and data modelling
+- Object-oriented programming and clean code
+- Testing, debugging, and version control
+- Building complete projects from requirements to deployment
 
-**Languages:** Python • C • Java
+### Technologies
 
-**AI/ML:** PyTorch • Machine Learning • Deep Learning • NLP • LLMs • AI Agents
+- **Languages:** Python, Java, C
+- **Engineering:** Git, GitHub, API development, databases, software design
+- **Currently learning:** Strengthening backend development and core computer science fundamentals
 
-**Engineering:** APIs • Backend Development • Databases • System Design • Git
+### Projects
 
-### What I'm Building
-
-I'm focused on projects that demonstrate the journey from **problem → research → experimentation → engineering → deployment**.
-
-I’m particularly interested in applied AI and forward-deployed engineering: taking real-world problems, understanding the technical and operational constraints, and building reliable systems that people can actually use.
+I use my repositories to practise engineering fundamentals and build practical software. I aim to document each project clearly, explain key technical decisions, and improve code quality as I learn.
 
 ### Connect
 
@@ -34,4 +32,4 @@ I’m particularly interested in applied AI and forward-deployed engineering: ta
 
 ---
 
-*Researching. Experimenting. Building.*
+*Learn the fundamentals. Build with intention. Improve through practice.*
